@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://kingeric027.github.io/clicky-game/",
+  "homepage":"https://kingeric027.github.io/National-parks-clicky-game/",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
