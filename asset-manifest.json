@@ -1,13 +1,13 @@
 {
-  "main.css": "/National-parks-clicky-game/static/css/main.ea0f8e37.chunk.css",
-  "main.js": "/National-parks-clicky-game/static/js/main.49844f81.chunk.js",
-  "main.js.map": "/National-parks-clicky-game/static/js/main.49844f81.chunk.js.map",
-  "static/js/1.8049a520.chunk.js": "/National-parks-clicky-game/static/js/1.8049a520.chunk.js",
-  "static/js/1.8049a520.chunk.js.map": "/National-parks-clicky-game/static/js/1.8049a520.chunk.js.map",
-  "runtime~main.js": "/National-parks-clicky-game/static/js/runtime~main.06ebcc75.js",
-  "runtime~main.js.map": "/National-parks-clicky-game/static/js/runtime~main.06ebcc75.js.map",
-  "static/css/main.ea0f8e37.chunk.css.map": "/National-parks-clicky-game/static/css/main.ea0f8e37.chunk.css.map",
-  "index.html": "/National-parks-clicky-game/index.html",
-  "precache-manifest.a05bcaa9704cdebabc3005fe6e755ae8.js": "/National-parks-clicky-game/precache-manifest.a05bcaa9704cdebabc3005fe6e755ae8.js",
-  "service-worker.js": "/National-parks-clicky-game/service-worker.js"
+  "main.css": "/National-parks-clicky-game/public/static/css/main.ea0f8e37.chunk.css",
+  "main.js": "/National-parks-clicky-game/public/static/js/main.b610b25e.chunk.js",
+  "main.js.map": "/National-parks-clicky-game/public/static/js/main.b610b25e.chunk.js.map",
+  "static/js/1.8049a520.chunk.js": "/National-parks-clicky-game/public/static/js/1.8049a520.chunk.js",
+  "static/js/1.8049a520.chunk.js.map": "/National-parks-clicky-game/public/static/js/1.8049a520.chunk.js.map",
+  "runtime~main.js": "/National-parks-clicky-game/public/static/js/runtime~main.43463765.js",
+  "runtime~main.js.map": "/National-parks-clicky-game/public/static/js/runtime~main.43463765.js.map",
+  "static/css/main.ea0f8e37.chunk.css.map": "/National-parks-clicky-game/public/static/css/main.ea0f8e37.chunk.css.map",
+  "index.html": "/National-parks-clicky-game/public/index.html",
+  "precache-manifest.651c666532a4574f777a8d4c6ec5ac1a.js": "/National-parks-clicky-game/public/precache-manifest.651c666532a4574f777a8d4c6ec5ac1a.js",
+  "service-worker.js": "/National-parks-clicky-game/public/service-worker.js"
 }

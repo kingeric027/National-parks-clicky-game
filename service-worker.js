@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/National-parks-clicky-game/precache-manifest.a05bcaa9704cdebabc3005fe6e755ae8.js"
+  "/National-parks-clicky-game/public/precache-manifest.651c666532a4574f777a8d4c6ec5ac1a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/National-parks-clicky-game/index.html", {
+workbox.routing.registerNavigationRoute("/National-parks-clicky-game/public/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
