@@ -6,7 +6,7 @@ function Navbar(props) {
     <nav className = "navbar">
         <ul>
             <li className="brand">
-                <a href="/"><strong>National Parks Clicky-Game!</strong></a>
+                <a href="/National-parks-clicky-game"><strong>National Parks Clicky-Game!</strong></a>
             </li>
             <li>
                 <h5>{props.correct}</h5>
