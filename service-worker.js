@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/National-parks-clicky-game/precache-manifest.a05bcaa9704cdebabc3005fe6e755ae8.js"
+  "/National-parks-clicky-game/precache-manifest.f5b36c5fdf08f2e8943af47b285e1342.js"
 );
 
 workbox.clientsClaim();
